@@ -1,7 +1,7 @@
 Examples
 =====
 
-.. _installation:
+.. _examples:
 
 Installation
 ------------

@@ -1,7 +1,7 @@
 Commands
 =====
 
-.. _installation:
+.. _commands:
 
 Installation
 ------------
