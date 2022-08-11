@@ -1,6 +1,5 @@
 # Configuration file for the Sphinx documentation builder.
 # from dashtools.version import __version__
-import furo
 
 __version__ = '1.8.0'
 # -- Project information
@@ -16,8 +15,8 @@ release = __version__
 
 html_static_path = ["_static"]
 html_theme_options = {
-    "light_logo": "images/logo_bk.png",
-    "dark_logo": "images/logo_w.png",
+    "light_logo": "images/logo_bk_small.png",
+    "dark_logo": "images/logo_w_small.png",
     "top_of_page_button": None,
     "announcement": "<em>Thank you for using DashTools!</em> If you like it, consider giving the project a <a href='https://github.com/andrew-hossack/dash-tools' target='_blank'> star on GitHub</a>.",
 }
