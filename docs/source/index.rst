@@ -4,8 +4,6 @@
 
 |GitHub| |PyPi| |Downloads| |Build And Test| |License|
 
-[![Pypi]()]() | [![Downloads]()]() | ![Build and Test]() | ![License]()
-
 *DashTools* is an open-source command line toolchain for Plotly Dash that makes creating and deploying dash projects to Heroku intuitive and easy.
 
 Contents:
@@ -15,19 +13,12 @@ Contents:
   :maxdepth: 1
   :caption: Usage
 
-  What is check4updates
-  How does it work
-  Why can't it auto update
-  Similar libraries
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Administration
-  
-  Changelog
-  Pull requests and suggested enhancements
+  Installation
+  Usage Examples
+  Commands
   Contributing
-  
+  Issues
+
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars
     :scale: 100%
