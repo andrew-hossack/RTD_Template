@@ -16,7 +16,7 @@ Use dashtools to...
 
 Getting started
 --------
-To get started using dashtools, check out the `Getting Started <getting started>`_ page.
+To get started using dashtools, check out the `Getting Started <gettingstarted.html>`_ page.
 
 
 Pages
