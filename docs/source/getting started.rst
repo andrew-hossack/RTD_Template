@@ -1,8 +1,10 @@
+.. image:: images/logo.png
+
+
 =======
 Getting Started
 =======
 
-.. image:: images/logo.png
 
 
 Installation instructions and basic usage.

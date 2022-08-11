@@ -28,7 +28,7 @@ Pages
     :maxdepth: 1
 
     changelog
-    contributing/index
+    contributing
     license
 
 
