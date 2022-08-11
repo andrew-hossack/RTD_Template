@@ -6,12 +6,17 @@
 DashTools is an open-source command line toolchain for `Plotly Dash <https://dash.plotly.com/introduction>`_ that makes creating and deploying dash projects to `Heroku <https://heroku.com/>`_ intuitive and easy.
 
 
-Key Features
+Use dashtools to...
 --------------
-1. Deploy your app to Heroku with one command
-2. Generate Procfile, requirements.txt and runtime.txt automatically on deploy
-3. Create boilerplate dash apps with one command
-4. Choose from many different boilerplate templates for creating apps
+- Deploy your app to Heroku with one command
+- Generate Procfile, requirements.txt and runtime.txt automatically on deploy
+- Create boilerplate dash apps with one command
+- Choose from many different boilerplate templates for creating apps
+
+
+Getting started
+--------
+To get started using dashtools, check out the `Getting Started <getting started>`_ page.
 
 
 Pages
