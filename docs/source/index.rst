@@ -14,11 +14,11 @@ Contents:
     :maxdepth: 1
     :caption: DashTools Documentation
 
-    Installation
-    Examples
-    Commands
-    Contributing
-    Issues
+    installation
+    examples
+    commands
+    contributing
+    issues
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars
