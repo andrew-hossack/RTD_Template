@@ -1,8 +1,8 @@
 # Contributing Contents:
 
 .. toctree::
-    bar.md
-    foo.md
+    bar
+    foo
 
 
 Add links here to different files

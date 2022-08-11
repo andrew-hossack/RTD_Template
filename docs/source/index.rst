@@ -9,14 +9,14 @@ Contents
 =========
 
 .. toctree::
-    commands.md
-    installation.md
+    commands
+    installation
 
 .. toctree::
     :caption: Development
-    contributing/index.rst
-    changelog.md
-    license.rst
+    contributing/index
+    changelog
+    license
 
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
