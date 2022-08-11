@@ -2,7 +2,6 @@
 
 
 .. class:: center
-
     |GitHub| |PyPi| |Downloads| |Build And Test| |License|
 
 
