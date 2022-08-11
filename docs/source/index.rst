@@ -10,8 +10,7 @@ Contents:
 =========
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Usage
+  :caption: Contents
 
   Installation
   Usage Examples
