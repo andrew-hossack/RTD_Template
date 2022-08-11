@@ -1,6 +1,3 @@
----
-hide-toc: true
----
 
 ![](images/logo.png)
 
@@ -12,17 +9,15 @@ _DashTools_ is an open-source command line toolchain for Plotly Dash that makes 
 
 # Contents:
 
-```{toctree}
-:hidden:
-commands
-installation
-```
+.. toctree::
+    :hidden:
+    commands
+    installation
 
-```{toctree}
-:caption: Development
-:hidden:
+.. toctree::
+    :caption: Development
+    :hidden:
 
-contributing/index
-changelog
-license
-```
+    contributing/index
+    changelog
+    license
