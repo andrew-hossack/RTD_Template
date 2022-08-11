@@ -14,7 +14,7 @@ release = __version__
 # -- General configuration
 html_logo = "images/logo_w.png"
 
-# html_static_path = ["_static"]
+html_static_path = ["_static"]
 html_theme_options = {
     "light_logo": "images/logo_w.png",
     "dark_logo": "images/logo_bk.png",
