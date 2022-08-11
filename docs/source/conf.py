@@ -18,6 +18,8 @@ html_static_path = ["_static"]
 html_theme_options = {
     "light_logo": "images/logo_bk.png",
     "dark_logo": "images/logo_w.png",
+    "top_of_page_button": None,
+    "announcement": "<em>Thank you</em> for using DashTools! Be sure to give the project a `star <https://github.com/andrew-hossack/dash-tools>`_ on GitHub",
 }
 
 extensions = [
