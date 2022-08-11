@@ -9,7 +9,9 @@ PyPI
 
 You can install dash-tools from PyPI via pip.
 
-``pip install dash-tools``
+.. code-block:: bash
+
+    $ pip install dash-tools
 
 
 Simple Usage
@@ -20,7 +22,11 @@ Creating a Project
 **********************
 
 Here's how you create a project:
-``dashtools init MyApp``
+
+.. code-block:: bash
+
+    $ dashtools init MyApp
+
 
 Deploying a Project
 **********************

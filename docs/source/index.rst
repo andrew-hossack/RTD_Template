@@ -22,6 +22,7 @@ Pages
 
     getting started
     installation
+    features/index
 
 .. toctree::
     :caption: Development

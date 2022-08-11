@@ -1,2 +1,3 @@
 # Requirements for sphinx/rtd build
 furo==2022.6.21
+sphinx-copybutton==2.4.7
