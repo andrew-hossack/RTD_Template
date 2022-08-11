@@ -9,13 +9,11 @@ Contents
 =========
 
 .. toctree::
-    :hidden:
-    commands
-    installation
+    commands.md
+    installation.md
 
 .. toctree::
     :caption: Development
-    :hidden:
     contributing/index.rst
     changelog.md
     license.rst

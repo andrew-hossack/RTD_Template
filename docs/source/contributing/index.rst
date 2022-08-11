@@ -1,7 +1,6 @@
 # Contributing Contents:
 
 .. toctree::
-    :hidden:
     bar.md
     foo.md
 
