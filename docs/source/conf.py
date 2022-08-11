@@ -1,13 +1,13 @@
 # Configuration file for the Sphinx documentation builder.
+from dashtools.version import __version__
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DashTools'
+author = 'Andrew Hossack'
 
-release = '0.1'
-version = '0.1.0'
+version = __version__
+release = __version__
 
 # -- General configuration
 
