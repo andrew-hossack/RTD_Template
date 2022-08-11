@@ -1,0 +1,2 @@
+# Requirements for sphinx/rtd build
+furo==2022.6.21
