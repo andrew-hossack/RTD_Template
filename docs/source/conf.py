@@ -12,7 +12,7 @@ version = __version__
 release = __version__
 
 # -- General configuration
-html_logo = "images/logo.png"
+html_logo = "images/logo_small.png"
 
 # html_static_path = ["_static"]
 # html_theme_options = {

@@ -1,3 +1,7 @@
+---
+hide-toc: true
+---
+
 .. image:: images/logo.png
 
 -------------------------------------
@@ -6,19 +10,25 @@
 
 *DashTools* is an open-source command line toolchain for Plotly Dash that makes creating and deploying dash projects to Heroku intuitive and easy.
 
+
 Contents:
 =========
 
-.. toctree::
-    .. :titlesonly:
-    :maxdepth: 1
-    :caption: DashTools Documentation
+```{toctree}
+:hidden:
 
-    installation
-    examples
-    commands
-    contributing
-    issues
+commands
+installation
+```
+
+```{toctree}
+:caption: Development
+:hidden:
+
+contributing/index
+changelog
+license
+```
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars
