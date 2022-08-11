@@ -1,12 +1,8 @@
 .. image:: images/logo.png
 
-
-.. class:: center
-    |GitHub| |PyPi| |Downloads| |Build And Test| |License|
+|GitHub| |PyPi| |Downloads| |Build And Test| |License|
 
 
-About
--------
 DashTools is an open-source command line toolchain for `Plotly Dash <https://dash.plotly.com/introduction>`_ that makes creating and deploying dash projects to `Heroku <https://heroku.com/>`_ intuitive and easy.
 
 
@@ -18,13 +14,13 @@ Key Features
 4. Choose from many different boilerplate templates for creating apps
 
 
-Contents
+Pages
 -------
 
 .. toctree::
     :maxdepth: 1
 
-    commands
+    getting started
     installation
 
 .. toctree::
