@@ -6,7 +6,6 @@ Getting Started
 =======
 
 
-
 Installation instructions and basic usage.
 
 
@@ -35,6 +34,12 @@ Here's how you create a project:
 
 
 Deploying a Project
+**********************
+
+FOo
+
+
+Project Templates
 **********************
 
 FOo
