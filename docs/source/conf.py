@@ -1,5 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 # from dashtools.version import __version__
+import furo
 
 __version__ = '1.8.0'
 # -- Project information
