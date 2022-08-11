@@ -12,6 +12,13 @@ version = __version__
 release = __version__
 
 # -- General configuration
+html_logo = "images/logo.png"
+
+# html_static_path = ["_static"]
+# html_theme_options = {
+#     "light_logo": "logo-light-mode.png",
+#     "dark_logo": "logo-dark-mode.png",
+# }
 
 extensions = [
     'sphinx.ext.duration',

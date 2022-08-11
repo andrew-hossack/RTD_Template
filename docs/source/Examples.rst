@@ -3,7 +3,7 @@ Examples
 
 .. _examples:
 
-Installation
+Examples
 ------------
 
 To use Lumache, first install it using pip:
