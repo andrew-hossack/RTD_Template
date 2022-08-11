@@ -3,7 +3,7 @@
 
 |GitHub| |PyPi| |Downloads| |Build And Test| |License|
 
-_DashTools_ is an open-source command line toolchain for Plotly Dash that makes creating and deploying dash projects to Heroku intuitive and easy.
+DashTools is an open-source command line toolchain for Plotly Dash that makes creating and deploying dash projects to Heroku intuitive and easy.
 
 Contents
 =========
@@ -18,8 +18,8 @@ Contents
     :caption: Development
     :maxdepth: 1
 
-    contributing/index
     changelog
+    contributing/index
     license
 
 
