@@ -1,6 +1,9 @@
 .. image:: images/logo.png
 
-|GitHub| |PyPi| |Downloads| |Build And Test| |License|
+
+.. class:: center
+
+    |GitHub| |PyPi| |Downloads| |Build And Test| |License|
 
 
 DashTools is an open-source command line toolchain for `Plotly Dash <https://dash.plotly.com/introduction>`_ that makes creating and deploying dash projects to `Heroku <https://heroku.com/>`_ intuitive and easy.
