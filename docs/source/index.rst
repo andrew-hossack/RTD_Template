@@ -14,21 +14,18 @@ hide-toc: true
 Contents:
 =========
 
-```{toctree}
-:hidden:
+.. toctree::
+    :hidden:
+    commands
+    installation
 
-commands
-installation
-```
+.. toctree::
+    :caption: Development
+    :hidden:
 
-```{toctree}
-:caption: Development
-:hidden:
-
-contributing/index
-changelog
-license
-```
+    contributing/index
+    changelog
+    license
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars
