@@ -21,7 +21,6 @@ Pages
     :maxdepth: 1
 
     getting started
-    installation
     features/index
 
 .. toctree::

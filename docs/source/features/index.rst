@@ -1,12 +1,15 @@
 =======
 Features
 =======
+Main features and commands.
 
 .. toctree::
     :maxdepth: 2
     
-    templates
+    docker
+    heroku
     init
+    run
+    templates
+    other commands
 
-
-Add links here to different files

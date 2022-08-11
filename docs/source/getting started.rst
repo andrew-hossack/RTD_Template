@@ -1,6 +1,10 @@
 =======
 Getting Started
 =======
+
+.. image:: images/logo.png
+
+
 Installation instructions and basic usage.
 
 
@@ -11,7 +15,7 @@ You can install dash-tools from PyPI via pip.
 
 .. code-block:: bash
 
-    $ pip install dash-tools
+    pip install dash-tools
 
 
 Simple Usage
@@ -25,7 +29,7 @@ Here's how you create a project:
 
 .. code-block:: bash
 
-    $ dashtools init MyApp
+    dashtools init MyApp
 
 
 Deploying a Project
