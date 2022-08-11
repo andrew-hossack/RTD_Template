@@ -10,14 +10,15 @@ Contents:
 =========
 
 .. toctree::
-    :titlesonly:
+    .. :titlesonly:
+    :maxdepth: 1
+    :caption: DashTools Documentation
 
     Installation
-    Usage Examples
+    Examples
     Commands
     Contributing
     Issues
-
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars

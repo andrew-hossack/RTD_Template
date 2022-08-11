@@ -1,9 +1,9 @@
 Contributing
 =====
 
-.. _installation:
+.. _contributing:
 
-Installation
+Contributing
 ------------
 
 To use Lumache, first install it using pip:
