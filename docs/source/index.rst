@@ -10,8 +10,8 @@ Contents
 
 .. toctree::
     :hidden:
-    commands.md
-    installation.md
+    commands
+    installation
 
 .. toctree::
     :caption: Development
