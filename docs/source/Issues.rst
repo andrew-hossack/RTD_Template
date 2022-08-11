@@ -1,9 +1,9 @@
-Contributing
+Issues
 =====
 
-.. _installation:
+.. _issues:
 
-Installation
+Issues
 ------------
 
 To use Lumache, first install it using pip:
