@@ -41,7 +41,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'furo'
-html_title = f'DashTools {__version__} Documentation'
+html_title = f'DashTools Documentation - v{__version__}'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
