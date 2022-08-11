@@ -1,6 +1,10 @@
-# Contributing Contents:
+=======
+Contributing
+=======
 
 .. toctree::
+    :maxdepth: 2
+    
     bar
     foo
 
