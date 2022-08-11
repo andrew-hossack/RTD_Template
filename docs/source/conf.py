@@ -16,8 +16,8 @@ release = __version__
 
 html_static_path = ["_static"]
 html_theme_options = {
-    "light_logo": "images/logo_w.png",
-    "dark_logo": "images/logo_bk.png",
+    "light_logo": "images/logo_bk.png",
+    "dark_logo": "images/logo_w.png",
 }
 
 extensions = [
