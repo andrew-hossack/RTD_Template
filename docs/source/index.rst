@@ -10,13 +10,11 @@ Contents:
 =========
 
 .. toctree::
-  :caption: Contents
-
-  Installation
-  Usage Examples
-  Commands
-  Contributing
-  Issues
+    Installation
+    Usage Examples
+    Commands
+    Contributing
+    Issues
 
 .. |GitHub| image:: https://img.shields.io/github/stars/andrew-hossack/dash-tools?style=flat-square
     :alt: GitHub Stars
