@@ -10,12 +10,14 @@ Contents
 
 .. toctree::
     :maxdepth: 1
+
     commands
     installation
 
 .. toctree::
     :caption: Development
     :maxdepth: 1
+
     contributing/index
     changelog
     license
