@@ -1,6 +1,3 @@
-.. image:: images/logo.png
-
-
 =======
 Getting Started
 =======
