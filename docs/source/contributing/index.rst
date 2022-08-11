@@ -1,11 +1,9 @@
 # Contributing Contents:
 
-```{toctree}
-:hidden:
+.. toctree::
+    :hidden:
+    bar.md
+    foo.md
 
-workflow
-internals
-design
-```
 
 Add links here to different files
