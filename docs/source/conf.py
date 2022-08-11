@@ -1,6 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
-from dashtools.version import __version__
+# from dashtools.version import __version__
 
+__version__ = '1.8.0'
 # -- Project information
 
 project = 'DashTools'
