@@ -19,7 +19,7 @@ html_theme_options = {
     "light_logo": "images/logo_bk.png",
     "dark_logo": "images/logo_w.png",
     "top_of_page_button": None,
-    "announcement": "<em>Thank you for using DashTools!</em> If you like it, give the project a <a href='https: // github.com/andrew-hossack/dash-tools' target='_blank'> star on GitHub</a>.",
+    "announcement": "<em>Thank you for using DashTools!</em> If you like it, give the project a <a href='https://github.com/andrew-hossack/dash-tools' target='_blank'> star on GitHub</a>.",
 }
 
 extensions = [
